@@ -1,5 +1,6 @@
 # Diagrams
 
-This folder will contain the topology diagram(s) for the Team Gravis lab.
+This folder  contains the topology diagram(s) for the Team Gravis lab.
 
-Pending: team/instructor approval before publishing. Once approved, `topology.png` will be added here and referenced from the main README and `docs/architecture-overview.md`.
+<img width="941" height="975" alt="image" src="https://github.com/user-attachments/assets/b2656f13-b529-4e7e-b444-3e761a251002" />
+
