@@ -46,7 +46,7 @@ team-gravis-cloud-infrastructure/
 │   ├── network-plan.md
 │   └── contribution-and-attribution.md
 ├── diagrams/
-│   └── topology.png (pending permission)
+│   └── topology.png 
 ├── screenshots/
 │   └── (pending permission)
 └── configs/
