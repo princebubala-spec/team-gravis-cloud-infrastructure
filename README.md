@@ -28,6 +28,25 @@ Client names have been anonymized for public publication.
 - Domain services and DNS supporting the Windows-based client environment
 - Dedicated DMZ segment for externally facing services
 
+  ## Topology Diagrams
+
+The repository includes three topology diagrams that document the private infrastructure, public/client-side infrastructure, and local storage design used in the lab.
+
+### Figure 1 — Site 1 Topology
+![Site 1 Topology](./diagrams/SITE1 TOPOLOGY.png)
+
+This diagram shows the private-side infrastructure of the environment, including Proxmox, storage, backup, and MSP support services hosted at Site 1.
+
+### Figure 2 — Site 2 Topology
+![Site 2 Topology](./diagrams/SITE 2 TOPOLOGY.png)
+
+This diagram shows the public/client-side infrastructure, including segmented client networks, DMZ segments, SAN networks, and routed connectivity at Site 2.
+
+### Figure 3 — Local Storage Topology
+![Local Storage Topology](./diagrams/local Storage Topology.png)
+
+This diagram shows the storage-focused design used in the lab, including relationships between virtualization and storage infrastructure.
+
 ## My Contributions
 - Deployed VyOS router virtual machines in the Proxmox environment
 - Configured and validated DHCP relay across routed network segments
